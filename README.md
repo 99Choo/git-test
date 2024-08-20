@@ -1,4 +1,6 @@
 ----------------------------------------------
+git help : 커맨드 설명
+
 working directory:
 - 프로젝트 디렉토리
 
@@ -47,4 +49,7 @@ git add (file name) :
 git add. : 현재 프로젝트 디렉토리 내에서 변경사항이 생긴 모든 파일들을 staging area에 추가.
 
 git status : 변경사항 있는 파일상태 확인
+----------------------------------------------
+git reset : staging area에서 파일 제거
+git add : staging area에서 파일 추가
 
