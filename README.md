@@ -52,4 +52,5 @@ git status : 변경사항 있는 파일상태 확인
 ----------------------------------------------
 git reset : staging area에서 파일 제거
 git add : staging area에서 파일 추가
-
+git pull
+git push
